@@ -1,2 +1,0 @@
-# GITREPOSITORY
-my test repo
